@@ -1,0 +1,5 @@
+streamlit==1.40.2
+Pillow==11.0.0
+requests==2.32.3
+googletrans==4.0.0rc1
+groq==0.5.0  # Assuming you're using Groq's Python SDK
